@@ -5,7 +5,7 @@ function Child() {
     let {transactions} = useContext(transactionContext)
     return (
         <div className="container">
-            <h1 className="heading">Expence tracker</h1>
+            <h1 className="heading">Expence tracker World</h1>
             <h2>your balance<br />$260.00</h2>
             <div className="expence-container">
                 <h2>INCOME<br />$500.00</h2>
